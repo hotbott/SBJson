@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "SBJson",
     platforms: [
-       .iOS(.v5)
+       .iOS(.v9)
     ],
     products: [
        .library(
